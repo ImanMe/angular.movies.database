@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movies.api", "movies.api\movies.api.csproj", "{F39A700A-18E9-42EE-83F4-884792C1BA0E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "movies.app", "movies.app\movies.app.esproj", "{3406DAA1-C7B7-4964-933C-4D2544EAC502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39A700A-18E9-42EE-83F4-884792C1BA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39A700A-18E9-42EE-83F4-884792C1BA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39A700A-18E9-42EE-83F4-884792C1BA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39A700A-18E9-42EE-83F4-884792C1BA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3406DAA1-C7B7-4964-933C-4D2544EAC502}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2003FAD5-D118-436C-8FBD-F85BB7426201}
+	EndGlobalSection
+EndGlobal
